@@ -10,4 +10,5 @@ Statistic of Salary of popular It companies
 欢迎您的加入！
 ***
 ###提交规则
-每次提交请说明信息来源及可信程度。
+如果您有更详细的薪资信息，欢迎添加！ 
+每次提交可以以pull quest的形式，也可以新开一个issue，同时请尽可能说明信息来源及可信程度。
