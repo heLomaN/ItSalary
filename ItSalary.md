@@ -1,5 +1,5 @@
 ####百度
-最低 19W 13k 14.7month USTC硕士  
+最低 19W 13k 14.6month USTC硕士  
 25W USTC硕士  
 ####阿里
 19W 广告搜索引擎 USTC硕士  
